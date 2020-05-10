@@ -1,0 +1,24 @@
+{
+  "name": "repository-changelog-generator",
+  "version": "0.0.1",
+  "description": "Changelog generator for your repository",
+  "keywords": [
+    "changelog",
+    "generator",
+    "repository"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "homepage": "https://github.com/ddeath/repository-changelog-generator",
+  "bugs": "https://github.com/ddeath/repository-changelog-generator/issues",
+  "repository": "git@github.com:ddeath/repository-changelog-generator.git",
+  "author": "Dusan Plavak <dusan.plavak@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "3.8.3"
+  }
+}
