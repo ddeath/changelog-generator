@@ -1,1 +1,1 @@
-# changelog-generator
+# repository-changelog-generator
